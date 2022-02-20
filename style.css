@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(194, 194, 194);
+    display: block;
+}
+h1 {
+    text-align: center;
+}
+
+
+.offensiverules {
+    background-color: cornflowerblue;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 20px;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.defensiverules{
+    background-color:aqua;
+    text-decoration-color: red;
+    text-align: left;
+    margin: auto;
+    width: 90%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.images {
+    float: right;
+} 
+
+#one {
+    border: 20px solid rgb(238, 16, 16);
+    margin: 30px;
+}
+#two {
+    border: 20px solid rgb(109, 240, 22);
+    margin: 30px;
+
+}
+#three {
+    border: 20px solid rgb(6, 156, 243);
+    margin: 30px;
+}
+#four {
+    border: 20px solid rgb(243, 30, 15);
+    margin: 30px;
+
+}
+.basketballplayers {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+.basketballplayers > p,h1 {
+    border: 20px solid rgba(186, 182, 209, 0.767);
+    text-align: center;
+}
+
